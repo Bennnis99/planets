@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/planets/static/css/main.4ce12f3f.chunk.css",
+    "main.js": "/planets/static/js/main.a2503084.chunk.js",
+    "main.js.map": "/planets/static/js/main.a2503084.chunk.js.map",
+    "runtime-main.js": "/planets/static/js/runtime-main.87ed4b0a.js",
+    "runtime-main.js.map": "/planets/static/js/runtime-main.87ed4b0a.js.map",
+    "static/js/2.8c5444a5.chunk.js": "/planets/static/js/2.8c5444a5.chunk.js",
+    "static/js/2.8c5444a5.chunk.js.map": "/planets/static/js/2.8c5444a5.chunk.js.map",
+    "static/js/3.9b331774.chunk.js": "/planets/static/js/3.9b331774.chunk.js",
+    "static/js/3.9b331774.chunk.js.map": "/planets/static/js/3.9b331774.chunk.js.map",
+    "index.html": "/planets/index.html",
+    "static/css/main.4ce12f3f.chunk.css.map": "/planets/static/css/main.4ce12f3f.chunk.css.map",
+    "static/js/2.8c5444a5.chunk.js.LICENSE.txt": "/planets/static/js/2.8c5444a5.chunk.js.LICENSE.txt",
+    "static/media/coruscant.f3e6092b.png": "/planets/static/media/coruscant.f3e6092b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87ed4b0a.js",
+    "static/js/2.8c5444a5.chunk.js",
+    "static/css/main.4ce12f3f.chunk.css",
+    "static/js/main.a2503084.chunk.js"
+  ]
+}
